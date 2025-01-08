@@ -1,0 +1,13 @@
+<name>John Doe</name>
+<age>30</age>
+<city>New York</city>
+<hobbies>reading</hobbies>
+<hobbies>swimming</hobbies>
+<hobbies>coding</hobbies>
+<education>
+  <degree>Bachelor</degree>
+  <major>Computer Science</major>
+  <university>XYZ University</university>
+</education>
+<employed>true</employed>
+<salary/>

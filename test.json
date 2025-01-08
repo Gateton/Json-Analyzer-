@@ -1,0 +1,13 @@
+{
+  "name": "John Doe",
+  "age": 30,
+  "city": "New York",
+  "hobbies": ["reading", "swimming", "coding"],
+  "education": {
+    "degree": "Bachelor",
+    "major": "Computer Science",
+    "university": "XYZ University"
+  },
+  "employed": true,
+  "salary": null
+}

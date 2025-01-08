@@ -1,0 +1,13 @@
+{
+  "name": "json-analyzer-tool",
+  "version": "1.0.0",
+  "description": "A tool to analyze and validate JSON files",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "csv-stringify": "^6.3.0",
+    "xml-js": "^1.6.11"
+  }
+}
